@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvin\\source\\repos\\EsportEsemka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF511AA1-D56D-478A-B94B-D2A54E2B9585}|EsportEsemka\\EsportEsemka.csproj|c:\\users\\alvin\\source\\repos\\esportesemka\\esportesemka\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF511AA1-D56D-478A-B94B-D2A54E2B9585}|EsportEsemka\\EsportEsemka.csproj|solutionrelative:esportesemka\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF511AA1-D56D-478A-B94B-D2A54E2B9585}|EsportEsemka\\EsportEsemka.csproj|C:\\Users\\alvin\\source\\repos\\EsportEsemka\\esportesemka\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF511AA1-D56D-478A-B94B-D2A54E2B9585}|EsportEsemka\\EsportEsemka.csproj|solutionrelative:esportesemka\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF511AA1-D56D-478A-B94B-D2A54E2B9585}|EsportEsemka\\EsportEsemka.csproj|c:\\users\\alvin\\source\\repos\\esportesemka\\esportesemka\\databasedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{CF511AA1-D56D-478A-B94B-D2A54E2B9585}|EsportEsemka\\EsportEsemka.csproj|solutionrelative:esportesemka\\databasedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "databaseDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\alvin\\source\\repos\\EsportEsemka\\EsportEsemka\\databaseDataSet.xsd",
+              "RelativeDocumentMoniker": "EsportEsemka\\databaseDataSet.xsd",
+              "ToolTip": "C:\\Users\\alvin\\source\\repos\\EsportEsemka\\EsportEsemka\\databaseDataSet.xsd",
+              "RelativeToolTip": "EsportEsemka\\databaseDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-28T14:09:05.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\source\\repos\\EsportEsemka\\EsportEsemka\\BookForm.cs",
+              "RelativeDocumentMoniker": "EsportEsemka\\BookForm.cs",
+              "ToolTip": "C:\\Users\\alvin\\source\\repos\\EsportEsemka\\EsportEsemka\\BookForm.cs",
+              "RelativeToolTip": "EsportEsemka\\BookForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:05:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alvin\\source\\repos\\EsportEsemka\\EsportEsemka\\BookForm.cs",
+              "RelativeDocumentMoniker": "EsportEsemka\\BookForm.cs",
+              "ToolTip": "C:\\Users\\alvin\\source\\repos\\EsportEsemka\\EsportEsemka\\BookForm.cs [Design]",
+              "RelativeToolTip": "EsportEsemka\\BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:34:25.016Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
